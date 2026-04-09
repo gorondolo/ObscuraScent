@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "718200617081",
+    "firebase_url": "https://obscurascent-ng-default-rtdb.firebaseio.com",
+    "project_id": "obscurascent-ng",
+    "storage_bucket": "obscurascent-ng.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718200617081:android:a9fa34e376cb385bf6bca8",
+        "android_client_info": {
+          "package_name": "com.example.obscurascent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_xvymgwnZr2SGWqH00Pc5SvDO3EdPkug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
